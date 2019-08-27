@@ -20,5 +20,8 @@
     "react-dom": "^16.4.0",
     "react-test-renderer": "^16.4.0",
     "react-unit": "^3.0.0"
+  },
+  "peerDependencies": {
+    "react-native-webview": "5.12.x"
   }
 }
